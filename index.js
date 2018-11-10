@@ -13,7 +13,7 @@ function takeANumber(katzDeliLine, person) {
 function nowServing( katzDeliLine ) {
   // create a conditional statement. 
   if (katzDeliLine.length === 0) {
-    return "There is nobody waited to be served!";
+    return "There is nobody waiting to be served!";
   } else {
     var firstPerson = katzDeliLine.shift(0);
     return fristPerson;
