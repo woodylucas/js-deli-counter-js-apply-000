@@ -10,3 +10,6 @@ function takeANumber(katzDeliLine, person) {
 
 // create a function nowServing 
 
+function nowServing( katzDeliLine ) {
+  
+}
