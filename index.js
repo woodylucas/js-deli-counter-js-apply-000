@@ -1,1 +1,3 @@
+// Declare variable 
 var katzDeliLine = [];
+
