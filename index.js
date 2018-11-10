@@ -15,6 +15,6 @@ function nowServing( katzDeliLine ) {
   if (katzDeliLine.length === 0) {
     return "There is nobody waited to be served!";
   } else {
-    
+    var firstPerson = katzDeliLine.shift(0);
   }
 }
