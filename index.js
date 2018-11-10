@@ -23,5 +23,7 @@ function nowServing( katzDeliLine ) {
 // create a currentLine function 
  function currentLine( katzDeliLine ) {
    // conditional statement 
-   
+   if () {
+     
+   }
  }
